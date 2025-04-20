@@ -17,8 +17,6 @@ def main():
         statusAtual = "atencao"
         print("O status atual do semáforo é: " + str(statusAtual))
         time.sleep(3)
-        
-    
 # Chamada direta
 main()
 
